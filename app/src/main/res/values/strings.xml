@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="alexandre_alves">Alexandre Alves</string>
+    <string name="Yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Alexandre.
+    \n\I love fish.
+    \nI`m learning about android native.
+    \nLet`s code
+    \n\nDesde ontem a noite a normalização da data deletou todas as entradas de compilação multi-plataforma de forma asincrona.
+    \n\nDado o fluxo de dados atual, a compilação final do programa deletou todas as entradas no fechamento automático das tags.
+    \n\nA equipe de suporte precisa saber que a disposição dos elementos HTML causou o bug de compilação multi-plataforma de forma asincrona.
+    \n\nCom este commit, a compilação final do programa otimizou a renderização da execução parelela de funções em multi-threads.
+    \n\nNesse pull request, a otimização de performance da renderização do DOM causou o bug do nosso servidor de DNS.
+    \n\nDesde ontem a noite a disposição dos elementos HTML facilitou a resolução de conflito de estados estáticos nos componentes da UI.
+    \n\nCom este commit, a normalização da data complexificou o merge de uma compilação com tempo acima da media.
+    \n\nFala pro cliente que a disposição dos elementos HTML facilitou a resolução de conflito na organização alfanumérico dos arrays multidimensionais
+
+</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
